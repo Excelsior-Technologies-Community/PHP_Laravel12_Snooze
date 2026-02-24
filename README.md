@@ -1,8 +1,4 @@
 # PHP_Laravel12_Snooze
-====================================================================
-Laravel 12 Snooze Reminder System – Full Working Project
-========================================================
-
 Project Name
 Laravel12_Snooze_System
 
